@@ -1,1 +1,1 @@
-# Machine-LearningThis is a machine learning project that predicts the survival of passengers on the Titanic based on various features such as age, gender, ticket class, and fare. The dataset used for this project is from the Kaggle Titanic challenge.
+This is a machine learning project that predicts the survival of passengers on the Titanic based on various features such as age, gender, ticket class, and fare. The dataset used for this project is from the Kaggle Titanic challenge.
