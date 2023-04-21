@@ -1,1 +1,1 @@
-This is a machine learning project that predicts the survival of passengers on the Titanic based on various features such as age, gender, ticket class, and fare. The dataset used for this project is from the Kaggle Titanic challenge.
+The Titanic Death Prediction Project utilized various feature engineering steps and SelectKBest algorithm for feature selection, followed by a Random Forest Classifier model to predict survival outcomes with high accuracy.
